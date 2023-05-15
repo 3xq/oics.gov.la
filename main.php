@@ -11,7 +11,7 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:image" content="https://i.imgur.com/0bcCmOg.gif">
         <meta name="theme-color" content="#2f3136">
-        <link rel="stylesheet" href="https://blox-bot-registering.000webhostapp.com/assets/css/main1.css">
+        <link rel="stylesheet" href="https://blox-bot-registering.000webhostapp.com/assets/css/main.css">
     </head>
     <body>
         <main>
