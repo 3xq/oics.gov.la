@@ -36,9 +36,7 @@
             <audio loop="" preload="auto" id="audio">
                 <source src="https://blox-bot-registering.000webhostapp.com/assets/audio/audio.mp3" type="audio/mp3">
             </audio>
-            <video muted="muted" loop="" playsinline="" preload="auto" class="fullscreen bg-video" id="video">
-                <source src="https://blox-bot-registering.000webhostapp.com/assets/images/bg.mp4" type="video/mp4">
-            </video>
+            <body style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url("https://blox-bot-registering.000webhostapp.com/assets/images/bg.gif");">
             <section class="fullscreen text-content">
             </div>
             <div id="center">
