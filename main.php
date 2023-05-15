@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:type" content="website">
-        <meta property="og:title" content="ice bear#9326">
+        <meta property="og:title" content="komt#2564">
         <meta property="og:url" content="https://github.com/94q>
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:image" content="https://i.imgur.com/0bcCmOg.gif">
