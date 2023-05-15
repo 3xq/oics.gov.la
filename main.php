@@ -13,7 +13,7 @@
         <meta name="theme-color" content="#2f3136">
         <link rel="stylesheet" href="https://blox-bot-registering.000webhostapp.com/assets/css/main.css">
     </head>
-    <body>
+    <body style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url(https://blox-bot-registering.000webhostapp.com/assets/images/bg.gif);">
         <main>
             <script>
                 function audioPlay() {
@@ -36,7 +36,6 @@
             <audio loop="" preload="auto" id="audio">
                 <source src="https://blox-bot-registering.000webhostapp.com/assets/audio/audio.mp3" type="audio/mp3">
             </audio>
-            <body style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url(https://blox-bot-registering.000webhostapp.com/assets/images/bg.gif);">
             <section class="fullscreen text-content">
             </div>
             <div id="center">
