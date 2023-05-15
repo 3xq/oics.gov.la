@@ -1,5 +1,3 @@
-<?php header("Access-Control-Allow-Origin: *");
-
 <html lang="en">
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
