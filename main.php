@@ -49,11 +49,11 @@
                 <div class="socials">
                     <span>
                         >
-                <a href="https://twitter.com/ilovemymsr" style="text-decoration:none; font-family: derk; font-size: 1em;">twitter</a>
+                <a href="discord://discord.com/users/1106121277997076530" style="text-decoration:none; font-family: derk; font-size: 1em;">discord</a>
                     </span>
                     <span>
                         >
-                <a href="https://instagram.com/might.be.this.molly.2.kill.me" style="text-decoration:none; font-family: derk; font-size: 1em;">instagram</a>
+                <a href="https://twitter.com/ilovemymsr" style="text-decoration:none; font-family: derk; font-size: 1em;">twitter</a>
                     </span>
                     <span>
                         >
