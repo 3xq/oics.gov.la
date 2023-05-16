@@ -24,10 +24,14 @@
                     document.getElementById('music').src = 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/' + song['id'] + '&auto_play=true';
                     document.getElementById('title').innerHTML = song['title']
                 }
+                function video() {
+                    var video = document.getElementById("video"); 
+                    video.play();
+                }
             </script>
             <input type="checkbox" autocomplete="off" id="overlay-toggle">
             <div class="overlay fullscreen">
-                <label for="overlay-toggle" onclick="audioPlay();videoPlay()">
+                <label for="overlay-toggle" onclick="music();video()">
                     <span class="no-hover" style="font-family: derk; font-size: 0.6em;">tap to enter</span>
                     <span class="hover" style="font-family: derk; font-size: 0.6em;">click to enter</span>
                 </label>
@@ -60,6 +64,6 @@
                    <span>
             </div>
         </main>
-    <a id="title"  onclick="window.open(song['permalink'], '_blank')" style="text-decoration:none; font-family: derk; font-size: 1em; position: absolute; bottom: 0; left: 10;">...</a>
+    <a id="title"  onclick="window.open(song['permalink'], '_blank')" style="text-decoration:none; font-family: derk; font-size: 1em; position: absolute; bottom: 2; left: 10;">...</a>
 </body>
 </html>
