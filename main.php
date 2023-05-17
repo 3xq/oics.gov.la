@@ -2,7 +2,7 @@
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta charset="utf-8">
-        <title><?php echo file_get_contents('https://blox-bot-registering.000webhostapp.com/username.php')?></title>
+        <title>komt#0003</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:type" content="website">
@@ -45,7 +45,7 @@
             <section class="fullscreen text-content">
             </div>
             <div id="center">
-                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;"><?php echo file_get_contents('https://blox-bot-registering.000webhostapp.com/username.php')?></h1>
+                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">komt</h1>
                 <div class="socials">
                     <span>
                         >
