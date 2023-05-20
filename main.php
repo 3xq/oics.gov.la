@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:type" content="website">
-        <meta property="og:title" content="<?php echo file_get_contents('https://blox-bot-registering.000webhostapp.com/username.php');?>">
+        <meta property="og:title" content="komt#0003">
         <meta property="og:url" content="https://www.oics.gov.la/komt"
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:image" content="https://i.imgur.com/0bcCmOg.gif">
@@ -45,7 +45,7 @@
             <section class="fullscreen text-content">
             </div>
             <div id="center">
-                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;"><?php echo file_get_contents('https://blox-bot-registering.000webhostapp.com/username.php');?></h1>
+                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">komt</h1>
                 <div class="socials">
                     <span>
                         >
