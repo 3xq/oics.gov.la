@@ -39,7 +39,7 @@
             <audio loop="" preload="auto" id="audio">
                 <source src="https://blox-bot-registering.000webhostapp.com/assets/audio/audio.mp3" type="audio/mp3">
             </audio>
-            <video muted="muted" loop="" playsinline="" preload="auto" class="fullscreen bg-video" id="video">
+            <video muted="muted" loop="" playsinline="" preload="auto" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); min-height: 50vh; min-width: 50vw;" id="video">
                 <source src="https://blox-bot-registering.000webhostapp.com/assets/videos/bg.mp4" type="video/mp4">
             </video>
             <section class="fullscreen text-content">
@@ -49,21 +49,21 @@
                 <div class="socials">
                     <span>
                         >
-                <a href="discord://discord.com/users/1106121277997076530" style="text-decoration:none; font-family: derk; font-size: 1em;">discord</a>
+                <a href="discord://discord.com/users/1106121277997076530" style="color:gray;text-decoration:none; font-family: derk; font-size: 1em;">discord</a>
                     </span>
                     <span>
                         >
-                <a href="https://twitter.com/ilovemymsr" style="text-decoration:none; font-family: derk; font-size: 1em;">twitter</a>
+                <a href="https://twitter.com/ilovemymsr" style="color:gray;text-decoration:none; font-family: derk; font-size: 1em;">twitter</a>
                     </span>
                     <span>
                         >
-                <a href="https://github.com/3xq" style="text-decoration:none; font-family: derk; font-size: 1em;">github</a>
+                <a href="https://github.com/3xq" style="color:gray;text-decoration:none; font-family: derk; font-size: 1em;">github</a>
                    <span><br>
                         >
-                <a onclick="music()" style="text-decoration:none; font-family: derk; font-size: 1em;">shuffle</a>
+                <a onclick="music()" style="color:gray;text-decoration:none; font-family: derk; font-size: 1em;">shuffle</a>
                    <span>
             </div>
         </main>
-    <a id="title"  onclick="window.open(song['permalink'], '_blank')" style="text-decoration:none; font-family: derk; font-size: 1em; position: absolute; bottom: 2; left: 10;">...</a>
+    <a id="title"  onclick="window.open(song['permalink'], '_blank')" style="color:gray;text-decoration:none; font-family: derk; font-size: 1em; position: absolute; bottom: 2; left: 10;">...</a>
 </body>
 </html>
